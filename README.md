@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @FlyMar
-- 👀 I’m interested in Code solutions for making better scientific instruments for the Oceanographic Community and R based Data science
+- 👀 I’m interested in Code solutions for studying the movement of Marine organisms and R based Data science
 - 🌱 I’m currently learning Linux, R and Python
 - 📫 How to reach me @Flynn_Y_M on Twitter 
